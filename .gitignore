@@ -8,6 +8,12 @@
 /[Mm]emoryCaptures/
 /[Rr]ecordings/
 
+# Кэш нативной сборки CMake/NDK для Android — появляется только после первой
+# сборки APK, поэтому не был предусмотрен в исходном .gitignore.
+/.utmp/
+/.cxx/
+/.externalNativeBuild/
+
 *.csproj
 *.unityproj
 *.sln

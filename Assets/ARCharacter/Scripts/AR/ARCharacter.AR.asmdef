@@ -1,0 +1,22 @@
+{
+    "name": "ARCharacter.AR",
+    "rootNamespace": "ARCharacter.AR",
+    "references": [
+        "ARCharacter.Core",
+        "ARCharacter.Runtime",
+        "Unity.XR.ARFoundation",
+        "Unity.XR.CoreUtils",
+        "Unity.XR.ARSubsystems",
+        "Unity.InputSystem",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

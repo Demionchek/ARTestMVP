@@ -1,0 +1,23 @@
+{
+    "name": "ARCharacter.Editor",
+    "rootNamespace": "ARCharacter.EditorTools",
+    "references": [
+        "ARCharacter.Core",
+        "ARCharacter.Runtime",
+        "ARCharacter.AR",
+        "Unity.XR.ARFoundation",
+        "Unity.XR.CoreUtils",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
